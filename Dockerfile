@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM byrnedo/alpine-curl:latest
 LABEL "repository"="https://github.com/creekorful/goreportcard-action"
 LABEL "maintainer"="Aloïs Micard"
 
