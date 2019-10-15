@@ -1,0 +1,11 @@
+name: 'Go report card'
+description: 'Update project Go report card on https://goreportcard.com'
+author: 'Aloïs Micard'
+branding:
+  icon: 'check-circle'
+  color: 'green'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ github.repository }}
