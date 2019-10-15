@@ -5,5 +5,5 @@ Github action that trigger refresh of the project go report card (https://gorepo
 ## Example usage
 
 ```yaml
-uses: creekorful/goreportcard-action@v1
+uses: creekorful/goreportcard-action@v0.4
 ```
