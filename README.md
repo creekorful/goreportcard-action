@@ -1,6 +1,6 @@
 # Go report card github action
 
-Github action that trigger refresh of the project go report card (https://goreportcard.com)
+Github action that trigger refresh of the repository go report card (https://goreportcard.com)
 
 ## Example usage
 
